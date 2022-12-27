@@ -9,7 +9,7 @@ An insurance policy is an arrangement by which a company undertakes to provide a
 
 Attribute Information:- 
 
-1.id : Unique ID for the customer.                                              
+1.id : Unique ID for the customer                                              
 2.Gender : Gender of the customer                                      
 3.Age : Age of the customer                                   
 4.Driving_License 0 : Customer does not have DL, 1 : Customer already has DL             
